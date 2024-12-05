@@ -1,0 +1,13 @@
+{
+    "index": 0,
+    "date": "2024-12-05 13:29:19.106154",
+    "previous_hash": "0",
+    "transactions": [
+        {
+            "buyer": "System",
+            "seller": "None",
+            "amount": "0"
+        }
+    ],
+    "block_hash": "6898bcdaba22eabd179c8cd8f7259dc3"
+}

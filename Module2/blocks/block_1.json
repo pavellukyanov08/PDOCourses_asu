@@ -1,0 +1,13 @@
+{
+    "index": 1,
+    "date": "2024-12-05 13:29:01.073869",
+    "previous_hash": "3d190a386be0f6849a141c6af5cc8c46",
+    "transactions": [
+        {
+            "buyer": "Alice",
+            "seller": "Bob",
+            "amount": 100
+        }
+    ],
+    "block_hash": "2cf3ac6a15c35d88016fcbc005a2d8c4"
+}
